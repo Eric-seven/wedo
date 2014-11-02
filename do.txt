@@ -7,3 +7,11 @@ dev1:adfasfa #2
 dev1:fadagad243432 #3
 
 dev1:fdfadjfk 23 fsdf #4
+
+<<<<<<< Updated upstream
+dev1:fadfa 23 fsd #dev2-1
+=======
+dev2:fdfhakjh 32 #1
+
+dev2:fadsf #2
+>>>>>>> Stashed changes
